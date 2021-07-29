@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @issacfriedman
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently working full time as a Vue.js developer 
-- 💞️ I’m looking to collaborate on Small javascript projects
+- 💞️ I’m looking to collaborate on javascript and vue projects
 - 📫 How to reach me ... issacfriedman613@gmail.com
 
 <!---
